@@ -1,0 +1,4 @@
+# machine configs que deja talosctl cluster create (llevan la PKI del clúster)
+/controlplane.yaml
+/worker.yaml
+.idea
